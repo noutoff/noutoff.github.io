@@ -11,3 +11,9 @@ Mini exercices de python obfusqué :
 [bar.py](https://github.com/noutoff/noutoff.github.io/blob/master/samples/bar.py)
 
 [final.py](https://github.com/noutoff/noutoff.github.io/blob/master/samples/final.py)
+
+
+Crackme obfusqué avec OLLVM :
+
+[bill (64 bits)](https://github.com/noutoff/noutoff.github.io/blob/master/samples/bill)
+[bill (32 bits)](https://github.com/noutoff/noutoff.github.io/blob/master/samples/bill)
