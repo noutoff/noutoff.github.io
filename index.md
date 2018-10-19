@@ -20,4 +20,4 @@ Crackme obfusqué avec OLLVM :
 
 # Other
 
-[CV](https://github.com/noutoff/noutoff.github.io/blob/master/Ninon_Eyrolles_CV.pdf)
+[CV](https://noutoff.github.io/Ninon_Eyrolles_CV.pdf)
