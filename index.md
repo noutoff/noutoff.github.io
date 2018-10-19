@@ -16,3 +16,8 @@ Mini exercices de python obfusqué :
 Crackme obfusqué avec OLLVM :
 
 [bill (64 bits)](https://github.com/noutoff/noutoff.github.io/blob/master/samples/bill)
+
+
+# Other
+
+[CV]((https://github.com/noutoff/noutoff.github.io/blob/master/Ninon_Eyrolles_CV.pdf)
